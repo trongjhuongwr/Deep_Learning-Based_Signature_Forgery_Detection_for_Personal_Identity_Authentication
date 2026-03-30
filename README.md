@@ -1,5 +1,4 @@
-# Deep Learning-Based Signature Forgery Detection: A Learnable Distance Approach with YOLOv10, ResNet-34, and Triplet Siamese Similarity Network
-
+# Adaptive Meta-Learning Framework for Few-Shot Offline Signature Verification Using Relation Networks
 ## Introduction
 
 Handwritten signatures remain a cornerstone of identity verification in critical sectors like banking, law, and finance. However, traditional verification systems struggle with two fundamental challenges: the natural variability in a person's signature (*intra-class variation*) and the increasing sophistication of skilled forgeries (*inter-class similarity*). Furthermore, deploying a robust system often requires a large number of signature samples per user, which is impractical in many real-world scenarios. Fixed distance metrics (e.g., Euclidean, Cosine) often fail to effectively address these challenges due to their 'one-size-fits-all' nature.
